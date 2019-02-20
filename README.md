@@ -1,5 +1,5 @@
 # TempStation
-Temperature station with Raspberry Pi and android phone
+Temperature station build with Raspberry Pi for Android device 
 
 ## TempServer.py
 Script located on Raspberry Pi
